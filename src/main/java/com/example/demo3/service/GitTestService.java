@@ -6,6 +6,6 @@ public class GitTestService {
         int b = 5;
         int c = 6;
         System.out.println(a);
-
+        System.out.println(b);
     }
 }
